@@ -1,0 +1,4 @@
+baseURL = "https://hiubaramusic-piano45.vercel.app"
+languageCode = "en-us"
+title = "Free Piano Sheet Music"
+theme = "hugo-theme-minos"
